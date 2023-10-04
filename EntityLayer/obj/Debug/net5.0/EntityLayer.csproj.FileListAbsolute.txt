@@ -1,0 +1,45 @@
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll

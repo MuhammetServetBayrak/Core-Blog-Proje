@@ -1,0 +1,54 @@
+﻿@using EntityLayer.Concrete
+@model List<WriterUser>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+<div class="col-md-6">
+    <div class="p-2">
+        <button type="button" id="btnGetlistAll" class="btn btn-outline-primary">Verileri Getir</button>
+        <button type="button" id="btnAddUser" class="btn btn-outline-primary">Kaydet</button>
+    </div>
+</div>
+
+<h4 class="text-center">Yazar Listesi</h4>
+<div class="p-2" id="listuser">
+    Buraya Veriler Gelecek listuser İd'ye bağlı olarak
+</div>
+
+
+<br />
+
+<div class="col-md-12">
+    <input type="text" class="form-control" id="inpName" placeholder="Ad">
+    <br />
+    <input type="text" class="form-control" id="inpSurname" placeholder="Soyad">
+    <br />
+    <input type="text" class="form-control" id="inpUsername" placeholder="Kullanıcı Adınız">
+    <br />
+    <input type="text" class="form-control" id="inpMail" placeholder="Mail">
+    
+
+    
+</div>
+
+@section Scripts
+{
+    <script>
+         $("#getlistall").click(function() {         //Bu satır, #getlistall id'sine sahip bir HTML öğesine tıklanıldığında çalışacak bir işlevin başlangıcını işaret eder. Yani, bu kod, belirli bir HTML öğesine tıklama olayına yanıt verir.
+             $.ajax({                              //AJAX isteğini başlatmak için kullanılan $.ajax fonksiyonunun başlangıcı.
+                 contentType: "application/json",  //Bu satır, isteğin içeriğinin JSON türünde olduğunu belirtir. Yani, sunucuya gönderilecek veri JSON formatında olmalıdır.
+                 dataType: "json",                 //Bu satır, sunucudan alınacak yanıtın JSON formatında olduğunu belirtir. Yani, sunucudan gelen veriyi JSON olarak bekliyoruz.
+                 type: "Get",                      //Bu satır, AJAX isteğinin HTTP GET yöntemiyle gönderileceğini belirtir. Yani, sunucudan veri almak için GET isteği kullanılacak.
+                 url: "/WriterUser/ListUser/",     //Bu satır, isteğin gönderileceği URL'yi belirtir. Bu URL, sunucuda ListUser adlı bir işlemi çağırmak için kullanılacak.
+
+                 success: function(funk) {         //AJAX isteği başarılı olduğunda çalışacak işlevin başlangıcı. funk adında bir parametre alır, bu parametre sunucudan gelen yanıtı temsil eder.
+                     let users = jQuery.parseJSON(funk);  //Bu satır, sunucudan gelen JSON yanıtını işlemek için kullanılır. funk değişkenini JSON formatından JavaScript nesnesine dönüştürür ve sonucu users değişkenine atar.
+                     console.log(users);           //Bu satır, users değişkenini tarayıcı konsoluna yazdırır. Bu sayede sunucudan gelen kullanıcı verilerini konsolda görebiliriz.
+                 }
+             });
+         });
+    </script>
+}
+ <script src="~/lib/jquery/dist/jquery.js"></script> <!-- jQuery kütüphanesini bir HTML sayfasına eklemek için kullanılan bir HTML-->

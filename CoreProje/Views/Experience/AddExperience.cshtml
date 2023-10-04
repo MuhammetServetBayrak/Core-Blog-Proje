@@ -1,0 +1,40 @@
+﻿@model EntityLayer.Concrete.Experience //Bunu bu şekilde sadece begin form kullanırken yapıyoruz normal bir index sayfası kullanacağımız zaman using kullanıyoruz
+@{
+    ViewData["Title"] = "AddExperience";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+
+@using (Html.BeginForm("AddExperience","Experience",FormMethod.Post))
+{
+<div class="col-12 grid-margin stretch-card">
+                <div class="card">
+                  <div class="card-body">
+                    <p class="card-description"> Yeni Deneyim Ekleme Paneli </p>
+                    <form class="forms-sample">
+                      <div class="form-group">
+                        <label for="exampleInputName1">Başlık</label>
+                        <input type="text" class="form-control" name="Name">
+                      </div>
+                      <div class="form-group">
+                        <label for="exampleInputEmail3">Tarih</label>
+                        <input type="text" class="form-control" name="Date">
+                      </div>
+                      <div class="form-group">
+                        <label for="exampleInputPassword4">Resim Yolu</label>
+                        <input type="text" class="form-control" name="ImageUrl">
+                      </div>
+                      
+                      
+                      
+                      <div class="form-group">
+                        <label for="exampleTextarea1">Açıklama</label>
+                        <textarea class="form-control" name="Description" rows="6"></textarea>
+                      </div>
+                      <button  class="btn btn-outline-primary mr-2">Kaydet</button>
+                      <td><a href="/Experience/Index" class="btn btn-outline-primary mr-2">İptal</a></td>
+                    </form>
+                  </div>
+                </div>
+              </div>
+}

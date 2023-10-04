@@ -1,0 +1,54 @@
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\muhammet\Desktop\Yeni klasör (3)\CoreProje\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\muhammet\Desktop\CoreProje\CoreProje\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\muhammet\Desktop\Core1Proje\CoreProje\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
